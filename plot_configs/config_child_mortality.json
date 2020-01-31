@@ -1,0 +1,8 @@
+{
+ "Data":"../child_mortality/data.csv",
+ "X":"Year",
+ "Y":"Number of Infant Deaths",
+ "Color":"RdYlGn",
+ "Title":"Child Mortality",
+ "Output":"../Outputs/child_mortality.png"
+}

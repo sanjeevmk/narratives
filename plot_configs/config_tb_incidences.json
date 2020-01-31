@@ -1,0 +1,8 @@
+{
+ "Data":"../tb/data_incidences.csv",
+ "X":"Year",
+ "Y":"Number of Incidences",
+ "Color":"PuBu",
+ "Title":"Number of Incidences of Tuberculosis",
+ "Output":"../Outputs/tuberculosis_incidences.png"
+}

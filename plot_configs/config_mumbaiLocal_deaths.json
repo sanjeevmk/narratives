@@ -1,0 +1,8 @@
+{
+ "Data":"../mumbai_locals/data.csv",
+ "X":"Year",
+ "Y":"Number of Accidental Deaths",
+ "Color":"RdYlGn",
+ "Title":"Deaths on Mumbai Suburban Railway Lines",
+ "Output":"../Outputs/mumbai_railway.png"
+}

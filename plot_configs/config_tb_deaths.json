@@ -1,0 +1,8 @@
+{
+ "Data":"../tb/data_deaths.csv",
+ "X":"Year",
+ "Y":"Number of Deaths",
+ "Color":"YlOrBr",
+ "Title":"Deaths Caused by Tuberculosis",
+ "Output":"../Outputs/tuberculosis_killed.png"
+}

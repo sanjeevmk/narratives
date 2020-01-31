@@ -1,0 +1,8 @@
+{
+ "Data":"../ghi/data.csv",
+ "X":"Years",
+ "Y":"Percentage of Undernourished",
+ "Color":"Greens",
+ "Title":"Proportion of Undernourished in the Population",
+ "Output":"../Outputs/undernourished.png"
+}

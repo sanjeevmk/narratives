@@ -1,0 +1,8 @@
+{
+ "Data":"../terrorism/data_wounded.csv",
+ "X":"Year",
+ "Y":"Number of People Wounded",
+ "Color":"BuGn",
+ "Title":"Casualties from Terrorism",
+ "Output":"../Outputs/terrorism_wounded.png"
+}

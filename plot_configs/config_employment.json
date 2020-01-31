@@ -1,0 +1,8 @@
+{
+ "Data":"../employment/data.csv",
+ "X":"Year",
+ "Y":"Number of Unemployed People",
+ "Color":"Blues",
+ "Title":"Unemployed Population",
+ "Output":"../Outputs/unemployed.png"
+}

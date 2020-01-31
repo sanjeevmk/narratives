@@ -1,0 +1,8 @@
+{
+ "Data":"../terrorism/data_killed.csv",
+ "X":"Year",
+ "Y":"Number of People Killed",
+ "Color":"OrRd",
+ "Title":"Fatalities from Terrorism",
+ "Output":"../Outputs/terrorism_killed.png"
+}
