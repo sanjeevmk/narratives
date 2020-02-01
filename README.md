@@ -1,7 +1,7 @@
 # narratives
 Highlights problems faced in India and their scales.
 
-![](problem_v_narratives_nobg.png?raw=true)
+![](problem_v_narratives_bg.png?raw=true)
 
 Sources:
 1. Global Terrorism Database
