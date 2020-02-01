@@ -1,5 +1,5 @@
 # narratives
-Highlights problems faced in India and their scales.
+Highlights problems faced in India and their Impact.
 
 ![](problem_v_narratives_bg.png?raw=true)
 
